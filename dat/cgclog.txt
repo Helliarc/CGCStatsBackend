@@ -1,0 +1,6 @@
+{"time": 1668354887, "poolSize": 1264225522552845, "totalFP": 4204134, "cgcLocked": 886183562295983, "cgcPriceUSD": 6.66e-10, "cgcPriceBNB": 1.11e-12, "bnbusd": 200, "lptokens": 30000, "bnblp": 666, "cgclp": 420000000000}
+{"time": 1668354903, "poolSize": 1264225522552845, "totalFP": 4204134, "cgcLocked": 886183562295983, "cgcPriceUSD": 6.66e-10, "cgcPriceBNB": 1.11e-12, "bnbusd": 200, "lptokens": 30000, "bnblp": 666, "cgclp": 420000000000}
+{"time": 1668354935, "poolSize": 1264225522552845, "totalFP": 4204134, "cgcLocked": 886183562295983, "cgcPriceUSD": 6.66e-10, "cgcPriceBNB": 1.11e-12, "bnbusd": 200, "lptokens": 30000, "bnblp": 666, "cgclp": 420000000000}
+{"time": 1668355844, "poolSize": 1264225522552845, "totalFP": 4204134, "cgcLocked": 886183562295983, "cgcPriceUSD": 6.66e-10, "cgcPriceBNB": 1.11e-12, "bnbusd": 200, "lptokens": 30000, "bnblp": 666, "cgclp": 420000000000}
+{"time": 1668367849, "poolSize": 1264139940096296, "totalFP": 4196586, "cgcLocked": 886184456935555, "cgcPriceUSD": 6.66e-10, "cgcPriceBNB": 1.11e-12, "bnbusd": 200, "lptokens": 30000, "bnblp": 666, "cgclp": 420000000000}
+{"time": 1668367888, "poolSize": 1264139940096296, "totalFP": 4196586, "cgcLocked": 886184456935555, "cgcPriceUSD": 6.66e-10, "cgcPriceBNB": 1.11e-12, "bnbusd": 200, "lptokens": 30000, "bnblp": 666, "cgclp": 420000000000}
