@@ -1,2 +1,5 @@
-envar
 node_modules/
+js/package-lock.json
+.creds/
+python/venv/.venv/
+scripts/
